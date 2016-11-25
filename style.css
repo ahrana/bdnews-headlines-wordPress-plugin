@@ -1,0 +1,41 @@
+/* CSS  */
+.widget_cx{
+    margin-top: 7px;
+    width: 92.5%;
+}
+
+h2.widgettitle {
+    margin-bottom: 8px;
+	background-color: #354267;
+	color:white;
+	line-height:28px;
+	text-align:center;
+	font-size:14px;
+}
+
+.bdnews_bangla{
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.bdnews_bangla li{
+    color: #333;
+    font-size: 15px;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+    width: 90%;	
+    list-style: upper-alpha outside none;
+}
+.bdnews_bangla h3{    
+    font-size: 18px;
+    margin: 0 0 10px;
+    padding: 0;
+	text-align: center;
+	color:#202d52;
+}
+.bdnews_bangla h3 a{
+	font-size:16px;
+}
+
